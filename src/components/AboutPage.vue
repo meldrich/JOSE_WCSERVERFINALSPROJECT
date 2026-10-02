@@ -18,8 +18,8 @@
             <i class="fas fa-user-graduate mr-2 text-primary"></i>Student Profile
           </div>
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">Student Developer</h5>
-            <p class="card-text text-muted">Web Systems and Technologies Specialization</p>
+            <h5 class="card-title font-weight-bold">JOSE, Adrian Meldrich C.</h5>
+            <p class="card-text text-muted">Web Development Student</p>
             <ul class="list-group list-group-flush mb-3">
               <li class="list-group-item d-flex justify-content-between px-0">
                 <span class="text-muted">Activity:</span>
